@@ -1,0 +1,53 @@
+# Liam Gallagher – Diamond In The Dark
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.07] I left L.A. today
+[00:14.67] I'm on another plane
+[00:17.25] I spent too much time on the dark side of your door
+[00:22.46] I spent the night awake
+[00:24.86] Had all that I could take
+[00:27.55] I might not see those baby blue eyes anymore
+[00:49.55] 
+[00:33.37] Come on
+[00:35.82] I'm shining like a diamond in the dark
+[00:41.19] I'm floating like a lion in the ark
+[00:46.23] I'm walking 'round in circles through the park
+[00:51.65] And no tough talk will erase you
+[01:07.65] 
+[00:54.34] Now I know how many holes it takes too
+[00:56.88] And I really don't know how to shake these memories
+[01:22.38] 
+[01:04.03] There's a fire in the sky
+[01:06.52] And baby, there's a red dawn in my eyes
+[01:08.94] And all the meanings got so twisted since you've gone
+[01:14.40] And I guess I'll hope you're fine
+[01:16.59] But really, you know, I hope you're crying
+[01:19.47] And there's a million things to say since you've been gone
+[01:48.47] 
+[01:25.02] Come on
+[01:27.63] I'm shining like a diamond in the dark
+[01:32.72] I'm floating like a lion in the ark
+[01:37.71] I'm walking 'round in circles through the park
+[01:43.19] And no tough talk will erase you
+[01:59.19] 
+[01:45.81] Now I know how many holes it takes too
+[01:48.53] And I really don't know how to shake these memories
+[02:14.03] 
+[02:16.77] Desperate eyes
+[02:20.55] Don't recognize the warning signs
+[02:27.13] Alibis
+[02:30.82] They won't keep you warm at night
+[02:47.32] 
+[02:37.08] Come on
+[02:39.80] I'm shining like a diamond in the dark
+[02:45.00] I'm floating like a lion in the ark
+[02:50.03] I'm walking 'round in circles through the park
+[02:55.56] And no tough talk will erase you
+[03:11.56] 
+[02:58.16] Now I know how many holes it takes too
+[03:00.79] And I really don't know how to shake these memories
+[03:08.52] Now I know how many holes it takes to
+[03:11.18] And I really don't know how to shake these memories
+```
