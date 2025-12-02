@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Diamond In The Dark",
+  "base_artist": "Liam Gallagher",
+  "createdAt": "2025-12-02T14:08:22.541639Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "diamond in the dark",
+      "artist": "liz",
+      "has_synced": true,
+      "path": "select/01_diamond_in_the_dark_liz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Diamond In The Dark",
+      "artist": "Liam Gallagher",
+      "has_synced": true,
+      "path": "select/02_Diamond_In_The_Dark_Liam_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Diamond In The Dark",
+      "artist": "Chris De Burgh",
+      "has_synced": false,
+      "path": "select/03_Diamond_In_The_Dark_Chris_De_Burgh.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Diamond in the Dark",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/04_Diamond_in_the_Dark_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Diamond in the Dark (feat. Slayyyter)",
+      "artist": "Liz",
+      "has_synced": true,
+      "path": "select/05_Diamond_in_the_Dark_(feat._Slayyyter)_Liz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Diamond In The Dark",
+      "artist": "Liam Gallagher",
+      "has_synced": true,
+      "path": "select/06_Diamond_In_The_Dark_Liam_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Diamond in the Dark",
+      "artist": "LIZ",
+      "has_synced": true,
+      "path": "select/07_Diamond_in_the_Dark_LIZ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Diamond in the Dark",
+      "artist": "LIZ feat. Slayyyter",
+      "has_synced": true,
+      "path": "select/08_Diamond_in_the_Dark_LIZ_feat._Slayyyter.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Diamond In The Dark",
+      "artist": "Liam Gallagher",
+      "has_synced": false,
+      "path": "select/09_Diamond_In_The_Dark_Liam_Gallagher.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Diamond in the Dark",
+      "artist": "Damian Lazarus",
+      "has_synced": false,
+      "path": "select/10_Diamond_in_the_Dark_Damian_Lazarus.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Diamond In The Dark",
+      "artist": "Liam Gallagher",
+      "has_synced": false,
+      "path": "select/pl_01_Diamond_In_The_Dark_Liam_Gallagher.txt"
+    }
+  ]
+}
